@@ -1,6 +1,8 @@
 # Angular Todos
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.14.
+This project was generated with Angular CLI version 18.2.14. This project is about todo-list web demo which I learned from the tutorial.
+
+The style of this web demo was made by **Monsterlessons Academy**. I only used it for educational propose.
 
 ## Development server
 
